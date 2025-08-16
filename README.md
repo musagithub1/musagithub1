@@ -36,10 +36,11 @@
 </td>
 <td align="center" width="50%">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musagithub1/musagithub1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musagit
+<!-- Snake Animation (Working Version) -->
+<img src="https://raw.githubusercontent.com/musagithub1/musagithub1/output/snake.svg" alt="Snake animation" />
+
+<!-- Animated Contribution Visualization -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=musagithub1&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF7B72&area=true&hide_border=true" alt="Contribution Activity" width="100%" />
 
 </td>
 </tr>
@@ -235,11 +236,16 @@
 ## 🐍 **Contribution Snake Animation**
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musagithub1/musagithub1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musagithub1/musagithub1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/musagithub1/musagithub1/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+
+<!-- Working Snake Animation -->
+<img src="https://raw.githubusercontent.com/musagithub1/musagithub1/output/snake.svg" alt="Snake eating my contributions" width="100%" />
+
+<!-- Snake-style Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&height=50&lines=🐍+Snake.exe+Loading...;Eating+Contributions...;Achievement+Unlocked%21;Matrix+Mode+Activated;Level+Up%21+🚀" alt="Matrix Snake Animation" />
+
+<!-- Matrix Effect -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=120&section=header&text=⚡%20POWERED%20BY%20CODE&fontSize=25&fontColor=fff&animation=blinking" />
+
 </div>
 
 ---

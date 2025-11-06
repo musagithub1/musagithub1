@@ -1,506 +1,234 @@
-<div align="center">
+<!--
+  This README is designed to be both informative and pleasant to read.
+  It follows modern GitHub profile guidelines such as using clear headings,
+  bullet points and white‑space for scannability and including dynamic
+  widgets like GitHub stats.  The structure is inspired by recent
+  tutorials on crafting standout README profiles which emphasize clear
+  introductions, visual skill badges and project showcases【113244198134373†L42-L63】.
+-->
 
-# 👋 Welcome to Mussa Khan's Digital Universe!
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Mussa%20Khan&fontColor=FFFFFF&fontSize=40&desc=AI%20Architect%20%26%20ML%20Engineer&descSize=20&descColor=F8FAFC"
+    alt="Mussa Khan – AI Architect & ML Engineer"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=AI+Architect+%26+ML+Engineer;Building+Intelligent+Systems;Transforming+Ideas+into+AI+Solutions)](https://git.io/typing-svg)
+# 👋 Welcome to Mussa Khan's Digital Universe
 
-![Profile Views](https://komarev.com/ghpvc/?username=musagithub1&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/musagithub1?label=Followers&style=social)](https://github.com/musagithub1?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/musagithub1?label=Stars&style=social)](https://github.com/musagithub1)
+> **Transforming ideas into intelligent solutions**
 
-</div>
+## 🧑‍💻 About Me
 
----
+I'm **Mussa Khan**, an AI Architect & Machine Learning Engineer based in **Islamabad, Pakistan**. I build intelligent systems that solve real‑world problems and strive to democratize AI technology.  According to modern README best practices, it's important to introduce yourself clearly and engage readers early【113244198134373†L42-L63】.  Here's a quick snapshot:
 
-## 🧬 Digital Identity
+- **Mission:** Transform ideas into intelligent solutions and build AI that empowers humanity.
+- **Mindset:** Problem solver & innovation driver.
+- **Current Lab:** Researching advanced deep learning & MLOps, building next‑gen computer vision systems, exploring agentic AI and LLM applications, and mastering generative AI & full‑stack development.
+- **Passion:** Building intelligent systems that make a positive impact.
 
-```yaml
-🎯 DNA:
-  name: "Mussa Khan"
-  location: "📍 Islamabad, Pakistan"
-  role: "AI Architect & ML Engineer"
-  mindset: "Problem Solver & Innovation Driver"
-  passion: "Building Intelligent Systems"
-  
-🚀 Mission:
-  primary: "Transforming Ideas into Intelligent Solutions"
-  vision: "Building AI that Empowers Humanity"
-  impact: "Democratizing AI Technology"
-  
-🔬 Current Lab:
-  researching: "Advanced Deep Learning & MLOps"
-  building: "Next-Gen Computer Vision Systems"
-  exploring: "Agentic AI & LLM Applications"
-  mastering: "Generative AI & Full-Stack Development"
-  
-📊 Quick Stats:
-  repositories: "20+"
-  code_lines: "100,000+"
-  models_trained: "50+"
-  coffee_consumed: "∞"
-```
+### 📈 Quick Stats
+
+| Metric | Value |
+|-------|------|
+| 🗂 Repositories | 20+ |
+| 🧾 Lines of code | 100K+ |
+| 🧠 Models trained | 50+ |
+| ☕ Coffee consumed | ∞ |
+
+These concise stats make it easy to grasp my experience at a glance, following the guideline to keep information scannable【113244198134373†L116-L122】.
 
 ---
 
-## 💻 Tech Stack & Arsenal
+## 🧰 Tech Stack
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+My toolkit spans languages, frameworks and platforms.  Using badges visually communicates skills【113244198134373†L64-L74】.
 
-### **AI/ML Frameworks**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### **Web Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Category | Tools & Languages |
+|---------|-------------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit‑Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) |
+| **Web & Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 **AI & Machine Learning**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎯 [AI-Powered Adaptive Quiz Generator](https://github.com/musagithub1/-AI-Powered-Adaptive-Quiz-Generator)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square)
-
-📖 Upload lectures → Generate baseline quiz → Get personalized quiz → Download as ODT
-- Intelligent question generation
-- Adaptive learning system
-- Multi-format export
-
-</td>
-<td width="50%">
-
-#### 📝 [Assignment Generator AI Agent](https://github.com/musagithub1/Assignment-Generator-AI-Agent)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)
-
-Upload question papers → AI analyzes → Creates academic reports
-- LangChain & LangGraph powered
-- Automated report generation
-- PDF export functionality
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🎤 [Mock Interview AI App](https://github.com/musagithub1/mock-interview-app-latest)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/-OpenRouter-00D9FF?style=flat-square)
-
-Smart AI mock interviews with instant feedback
-- Technical, behavioral, general interviews
-- Per-question instant feedback
-- Complete conversation history
-- Final evaluation reports
-
-</td>
-<td width="50%">
-
-#### 💳 [CreditIQ Predictor](https://github.com/musagithub1/credit_scoring_project)
-![ML](https://img.shields.io/badge/-ML-F7931E?style=flat-square)
-![94% Accuracy](https://img.shields.io/badge/Accuracy-94%25-success?style=flat-square)
-
-Advanced credit risk analysis platform
-- Ensemble learning (LR, DT, RF, XGBoost)
-- Automated feature engineering
-- Interactive risk dashboard
-- Model interpretability (SHAP)
-
-⭐ 11 Stars
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🐾 [One Health AI Platform](https://github.com/musagithub1/One_Health_AI_Platform)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)
-![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square)
-
-Complete pet healthcare management system
-- Pet registration & healthcare
-- Lost pet recovery system
-- AI-driven health insights
-- All-in-one platform
-
-</td>
-<td width="50%">
-
-#### 🛡️ [Spam Detector](https://github.com/musagithub1/Spam-Detector)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square)
-![ML](https://img.shields.io/badge/-ML-F7931E?style=flat-square)
-
-ML-powered spam detection with Streamlit
-- SMS classification (Spam/Ham)
-- Intuitive Streamlit UI
-- Dockerized deployment
-- High accuracy classification
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎨 **Computer Vision & Real-Time Systems**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🚗 [License Plate Detection System](https://github.com/musagithub1/license-plate-detection-opencv-yolov8)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square)
-
-Real-time license plate detection <50ms
-- Dual model architecture (Haar + YOLO)
-- ONNX optimization
-- Real-time processing pipeline
-- Multi-format support
-
-⭐ 9 Stars
-
-</td>
-<td width="50%">
-
-#### 😊 [Face Detection & Analysis](https://github.com/musagithub1/FACE_DETECTION_PROJECT)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-4285F4?style=flat-square)
-
-Advanced face detection with emotion recognition
-- Haar cascades detection
-- Emotion recognition (DeepFace)
-- Real-time face analysis
-- Multi-model approach
-
-⭐ 1 Star
-
-</td>
-</tr>
-</table>
-
----
-
-### 🌐 **Full-Stack Development**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔄 [JSON-to-TOON Converter](https://github.com/musagithub1/json-to-toon-Converter)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square)
-
-Full-stack format converter
-- FastAPI backend (Python)
-- React + Tailwind frontend
-- Bidirectional conversion
-- Modern Vite build
-
-⭐ 1 Star | 🍴 1 Fork
-
-</td>
-<td width="50%">
-
-#### 💻 [Python Code Assistant AI Bot](https://github.com/musagithub1/python-code-assistant-ai-bot)
-![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square)
-
-Advanced AI developer tool
-- Context-aware code generation
-- Dual UI (Web/Flask & Terminal)
-- Smart error detection
-- Code execution capabilities
-
-⭐ 4 Stars
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🎮 [Snake Game](https://github.com/musagithub1/snake-game)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Classic snake game implementation
-- Smooth movement controls
-- Food collection system
-- Score tracking
-- Clean HTML/CSS/JS
-
-</td>
-<td width="50%">
-
-#### 📋 [To-Do List Manager](https://github.com/musagithub1/To-do-list-manager-cpp)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-Console-based task manager
-- File persistence
-- Task categorization
-- Complete CRUD operations
-- Clean C++ implementation
-
-⭐ 2 Stars
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔐 **Cybersecurity & Research**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔍 [Network Packet Sniffer](https://github.com/musagithub1/CodeAlpha_NetworkSniffer)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-DC143C?style=flat-square)
-
-Network analysis tool - CodeAlpha Internship
-- Real-time packet capture
-- Protocol analysis
-- Network monitoring
-- Educational project
-
-⭐ 4 Stars | 🍴 1 Fork
-
-</td>
-<td width="50%">
-
-#### 📅 [30 Days Agentic AI Plan](https://github.com/musagithub1/30-days-agentic-ai-plan)
-![Research](https://img.shields.io/badge/-Research-8A2BE2?style=flat-square)
-
-Structured learning roadmap for Agentic AI
-- Daily learning objectives
-- Research papers & projects
-- Content creation plan
-- YouTube & social media strategy
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🎬 [Google Veo 3 Business Prompts](https://github.com/musagithub1/google-veo3-business-prompts)
-![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square)
-
-Open-source prompt collection
-- Marketing use cases
-- Content creation prompts
-- AI-driven storytelling
-- Business applications
-
-</td>
-<td width="50%">
-
-#### 🏛️ [Archon OS](https://github.com/musagithub1/Archon-OS)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Beta](https://img.shields.io/badge/-Beta-FFA500?style=flat-square)
-
-Knowledge & task management for AI assistants
-- Beta release
-- AI coding backbone
-- Task orchestration
-- Knowledge management
-
-⭐ 2 Stars | 🍴 1 Fork
-
-</td>
-</tr>
-</table>
+Below is a curated selection of my projects.  Each listing includes a short set of highlights instead of long paragraphs to keep the table succinct and easy to scan【113244198134373†L116-L122】.
+
+### 🤖 AI & Machine Learning
+
+| Project | Highlights |
+|---|---|
+| **[AI‑Powered Adaptive Quiz Generator](https://github.com/musagithub1/-AI-Powered-Adaptive-Quiz-Generator)** | <ul><li>Intelligent question generation</li><li>Adaptive learning system</li><li>Multi‑format export</li></ul> |
+| **[Assignment Generator AI Agent](https://github.com/musagithub1/Assignment-Generator-AI-Agent)** | <ul><li>LangChain &amp; LangGraph powered</li><li>Automated academic report generation</li><li>PDF export functionality</li></ul> |
+| **[Mock Interview AI App](https://github.com/musagithub1/mock-interview-app-latest)** | <ul><li>Technical, behavioral &amp; general interview simulations</li><li>Instant per‑question feedback</li><li>Conversation history &amp; evaluation reports</li></ul> |
+| **[CreditIQ Predictor](https://github.com/musagithub1/credit_scoring_project)** | <ul><li>Ensemble credit risk analysis (LR, DT, RF, XGBoost)</li><li>Automated feature engineering</li><li>Interactive risk dashboard &amp; interpretability (SHAP)</li></ul> |
+| **[One Health AI Platform](https://github.com/musagithub1/One_Health_AI_Platform)** | <ul><li>Pet registration &amp; healthcare management</li><li>Lost pet recovery system</li><li>AI‑driven health insights</li></ul> |
+| **[Spam Detector](https://github.com/musagithub1/Spam-Detector)** | <ul><li>SMS spam/ham classification</li><li>Streamlit UI &amp; Docker deployment</li><li>High accuracy classification</li></ul> |
+
+### 🎨 Computer Vision & Real‑Time Systems
+
+| Project | Highlights |
+|---|---|
+| **[License Plate Detection System](https://github.com/musagithub1/license-plate-detection-opencv-yolov8)** | <ul><li>Dual model architecture: Haar + YOLO</li><li>ONNX optimization for &lt;50 ms inference</li><li>Real‑time pipeline &amp; multi‑format support</li></ul> |
+| **[Face Detection & Analysis](https://github.com/musagithub1/FACE_DETECTION_PROJECT)** | <ul><li>Haar cascades face detection</li><li>Emotion recognition via DeepFace</li><li>Real‑time analysis with multi‑model approach</li></ul> |
+
+### 🌐 Full‑Stack Development
+
+| Project | Highlights |
+|---|---|
+| **[JSON‑to‑TOON Converter](https://github.com/musagithub1/json-to-toon-Converter)** | <ul><li>FastAPI backend (Python)</li><li>React + Tailwind CSS frontend</li><li>Bidirectional JSON ↔ TOON conversion</li></ul> |
+| **[Python Code Assistant AI Bot](https://github.com/musagithub1/python-code-assistant-ai-bot)** | <ul><li>Context‑aware code generation</li><li>Dual UI: Web (Flask) &amp; terminal</li><li>Smart error detection &amp; code execution</li></ul> |
+| **[Snake Game](https://github.com/musagithub1/snake-game)** | <ul><li>Smooth movement &amp; controls</li><li>Food collection &amp; score tracking</li><li>Clean HTML/CSS/JS implementation</li></ul> |
+| **[To‑Do List Manager](https://github.com/musagithub1/To-do-list-manager-cpp)** | <ul><li>Console‑based C++ task manager</li><li>File persistence &amp; categorization</li><li>Complete CRUD operations</li></ul> |
+
+### 🔐 Cybersecurity & Research
+
+| Project | Highlights |
+|---|---|
+| **[Network Packet Sniffer](https://github.com/musagithub1/CodeAlpha_NetworkSniffer)** | <ul><li>Real‑time packet capture &amp; protocol analysis</li><li>Network monitoring &amp; statistics</li><li>Educational project (CodeAlpha internship)</li></ul> |
+| **[30 Days Agentic AI Plan](https://github.com/musagithub1/30-days-agentic-ai-plan)** | <ul><li>Structured Agentic AI learning roadmap</li><li>Research papers &amp; project recommendations</li><li>Content creation &amp; social strategy</li></ul> |
+| **[Google Veo 3 Business Prompts](https://github.com/musagithub1/google-veo3-business-prompts)** | <ul><li>Open‑source prompt collection for marketing</li><li>Content creation &amp; storytelling guides</li><li>AI‑driven business use cases</li></ul> |
+| **[Archon OS](https://github.com/musagithub1/Archon-OS)** | <ul><li>Knowledge &amp; task management for AI assistants</li><li>Beta release &amp; AI coding backbone</li><li>Task orchestration &amp; knowledge management</li></ul> |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=musagithub1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musagithub1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10"/>
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=musagithub1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Mussa's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musagithub1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" alt="Top languages" />
+</p>
 
 ---
 
-## 🔥 Contribution Stats
+## 🔥 Contribution & Activity
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/musagithub1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musagithub1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  </a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=musagithub1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Mussa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=musagithub1&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF7B72&area=true&hide_border=true)](https://github.com/musagithub1)
-
-</div>
+<p align="center">
+  <a href="https://github.com/musagithub1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=musagithub1&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF7B72&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=musagithub1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=musagithub1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🎯 Current Focus Areas
 
-```yaml
-🔬 Research & Development:
-  - Advanced Computer Vision Algorithms
-  - Agentic AI & Multi-Agent Systems
-  - MLOps & Cloud AI Deployment
-  - Generative AI Applications
-  - Edge AI & Mobile Deployment
-  - Real-time AI Systems
-  - Explainable AI (XAI)
+Staying focused and continually evolving is key.  Here are the areas I'm currently investing my time and energy:
 
-🚀 Active Projects:
-  - Real-time Multi-Object Recognition
-  - Intelligent Analytics Platform
-  - Open Source ML Contributions
-  - AI-Powered Creative Tools
-  - Next-Gen AI Infrastructure
-  
-📚 Learning Journey:
-  - Large Language Models (LLMs)
-  - Reinforcement Learning
-  - Transformer Architectures
-  - AI Ethics & Responsible AI
-  - Distributed Systems
-```
+### 🔬 Research & Development
+
+- Advanced computer vision algorithms
+- Agentic AI & multi‑agent systems
+- MLOps & cloud AI deployment
+- Generative & edge AI applications
+- Real‑time AI systems & explainable AI (XAI)
+
+### 🚀 Active Projects
+
+- Real‑time multi‑object recognition
+- Intelligent analytics platform
+- Open‑source ML contributions
+- AI‑powered creative tools
+- Next‑generation AI infrastructure
+
+### 📚 Learning Journey
+
+- Large language models (LLMs)
+- Reinforcement learning
+- Transformer architectures
+- AI ethics & responsible AI
+- Distributed systems
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-musagithub1-181717?style=for-the-badge&logo=github)](https://github.com/musagithub1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
-</div>
+<p align="center">
+  <a href="https://github.com/musagithub1"><img src="https://img.shields.io/badge/GitHub-musagithub1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
 
 ## 💡 Fun Facts
 
-- 🧠 Building AI systems that solve real-world problems
-- 🎯 20+ repositories exploring different domains
-- ☕ Powered by coffee and curiosity
-- 🌱 Always learning, always building
-- 💬 Ask me about AI/ML, Computer Vision, or Full-Stack Development
-- 🎓 Passionate about democratizing AI technology
+- 🧠 I love building AI systems that solve real‑world problems.
+- 📂 Over twenty repositories exploring different domains.
+- ☕ Powered by coffee and curiosity.
+- 🌱 Always learning, always building.
+- 💬 Ask me about AI/ML, computer vision or full‑stack development.
 
 ---
 
-## 📫 Let's Collaborate!
+## 🤝 Let's Collaborate!
 
-I'm always open to:
-- 🤝 Collaborating on AI/ML projects
-- 💡 Discussing innovative ideas
-- 🔬 Research opportunities
-- 📚 Knowledge sharing
-- 🚀 Building the future with AI
+I'm always open to new collaborations and opportunities.  Feel free to reach out if you'd like to:
 
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- Collaborate on AI/ML projects or research.
+- Discuss innovative ideas or cutting‑edge technologies.
+- Share knowledge or co‑create content.
+- Explore open‑source contributions.
 
 ---
 
-### ⚡ Recent Activity
+## 🧠 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
+</p>
+
+---
+
+## ⚡ Recent Activity & Latest Videos
+
+<!--
+  Dynamic sections for activity and YouTube videos are populated via GitHub actions.
+  They update automatically and ensure the profile stays fresh and relevant.
+-->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ---
 
-<img src="https://raw.githubusercontent.com/musagithub1/musagithub1/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/musagithub1/musagithub1/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-**✨ "Transforming Ideas into Intelligent Solutions" ✨**
+## 📊 Repository Stats
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Repository Stats
-
-![Repos Badge](https://badges.pufler.dev/repos/musagithub1)
-![Years Badge](https://badges.pufler.dev/years/musagithub1)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/musagithub1)
-
-</div>
+<p align="center">
+  <img src="https://badges.pufler.dev/repos/musagithub1" alt="Repository count" />
+  <img src="https://badges.pufler.dev/years/musagithub1" alt="Years on GitHub" />
+  <img src="https://badges.pufler.dev/commits/monthly/musagithub1" alt="Monthly commits" />
+</p>
 
 ---
 
-<div align="center">
-
-**Made with ❤️ by Mussa Khan**
-
-*Last Updated: November 2025*
-
-</div>
+<p align="center">
+  **Made with ❤️ by Mussa Khan**  
+  *Last updated: November 2025*
+</p>

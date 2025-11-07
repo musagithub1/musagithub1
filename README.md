@@ -998,11 +998,13 @@ If you find my projects helpful, consider:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
----
+---<div align="center">
 
 <sub>⭐ From [musagithub1](https://github.com/musagithub1) | 📧 Contact for collaborations | 🚀 Building the future with AI</sub>
 
-</div>-stats.vercel.app/api?username=musagithub1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=musagithub1&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" />
+<br><br>
 
-<img width="49%" src="https://github.com/musagithub1/musagithub1/blob/master/README.md"
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=musagithub1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=musagithub1&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ri_
+

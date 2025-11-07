@@ -1006,5 +1006,6 @@ If you find my projects helpful, consider:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=musagithub1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=musagithub1&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ri_
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=musagithub1&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" />
 
+</div>

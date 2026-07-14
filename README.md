@@ -1,7 +1,7 @@
 <a href="https://github.com/musagithub1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musagithub1/musagithub1/master/dark.svg">
-    <img width="100%" alt="Mussa Khan | AI Engineer, AI and Machine Learning Instructor" src="https://raw.githubusercontent.com/musagithub1/musagithub1/master/light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musagithub1/musagithub1/main/dark.svg">
+    <img width="100%" alt="Mussa Khan | AI Engineer, AI and Machine Learning Instructor" src="https://raw.githubusercontent.com/musagithub1/musagithub1/main/light.svg">
   </picture>
 </a>
 

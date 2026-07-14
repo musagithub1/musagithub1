@@ -1,0 +1,31 @@
+{
+  "identity": {
+    "name": "Mussa Khan",
+    "role": "AI Engineer · AI/ML Instructor",
+    "base": "Islamabad, Pakistan",
+    "education": "BS Artificial Intelligence · 5th semester",
+    "current": "Instructor @ HectaSolution"
+  },
+  "specialization": {
+    "agentic_ai": "LLM agents · RAG · tool calling",
+    "vision": "OpenCV · YOLO · CNNs · ONNX",
+    "automation": "n8n · APIs · production workflows",
+    "local_ai": "Ollama · private/offline runtimes"
+  },
+  "toolchain": {
+    "languages": "Python · C++ · JavaScript · Bash",
+    "frameworks": "TensorFlow · Keras · LangChain",
+    "platforms": "Git · Docker · Linux · Colab"
+  },
+  "build_log": {
+    "01": "Portable offline AI agent on USB",
+    "02": "Emotion-aware interview platform",
+    "03": "Real-time computer vision systems"
+  },
+  "connect": {
+    "email": "raja.musa.khan035@gmail.com",
+    "linkedin": "in/mussakhan-ai",
+    "github": "@musagithub1",
+    "status": "Open to freelance & collaboration"
+  }
+}

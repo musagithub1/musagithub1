@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="670" viewBox="0 0 1200 670" role="img" aria-labelledby="title desc">
+  <title id="title">Mussa Khan - AI Engineer and AI/ML Instructor</title>
+  <desc id="desc">Animated terminal profile with an ASCII portrait, skills, projects, and contact details.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0B1224"/>
+    </linearGradient>
+    <linearGradient id="portrait-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#8B5CF6;#67E8F9;#22D3EE" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#34D399;#22D3EE;#8B5CF6" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="border-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+    <linearGradient id="scan-gradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#67E8F9" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1E293B" stroke-width="0.7" opacity="0.18"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="7" stdDeviation="12" flood-color="#020617" flood-opacity="0.22"/>
+    </filter>
+    <mask id="portrait-reveal">
+      <rect x="0" y="0" width="430" height="490" fill="white">
+        <animate attributeName="height" from="0" to="490" dur="2.35s" begin="0.15s" fill="freeze"/>
+      </rect>
+    </mask>
+    <clipPath id="line-0"><rect x="497" y="85.00" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="0.52s" fill="freeze"/></rect></clipPath><clipPath id="line-1"><rect x="497" y="105.35" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="0.61s" fill="freeze"/></rect></clipPath><clipPath id="line-2"><rect x="497" y="125.70" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="0.71s" fill="freeze"/></rect></clipPath><clipPath id="line-3"><rect x="497" y="146.05" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="0.81s" fill="freeze"/></rect></clipPath><clipPath id="line-4"><rect x="497" y="166.40" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="0.90s" fill="freeze"/></rect></clipPath><clipPath id="line-5"><rect x="497" y="186.75" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="0.99s" fill="freeze"/></rect></clipPath><clipPath id="line-6"><rect x="497" y="207.10" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="1.09s" fill="freeze"/></rect></clipPath><clipPath id="line-7"><rect x="497" y="227.45" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="1.19s" fill="freeze"/></rect></clipPath><clipPath id="line-8"><rect x="497" y="247.80" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="1.28s" fill="freeze"/></rect></clipPath><clipPath id="line-9"><rect x="497" y="268.15" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="1.38s" fill="freeze"/></rect></clipPath><clipPath id="line-10"><rect x="497" y="288.50" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="1.47s" fill="freeze"/></rect></clipPath><clipPath id="line-11"><rect x="497" y="308.85" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="1.56s" fill="freeze"/></rect></clipPath><clipPath id="line-12"><rect x="497" y="329.20" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="1.66s" fill="freeze"/></rect></clipPath><clipPath id="line-13"><rect x="497" y="349.55" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="1.76s" fill="freeze"/></rect></clipPath><clipPath id="line-14"><rect x="497" y="369.90" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="1.85s" fill="freeze"/></rect></clipPath><clipPath id="line-15"><rect x="497" y="390.25" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="1.95s" fill="freeze"/></rect></clipPath><clipPath id="line-16"><rect x="497" y="410.60" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="2.04s" fill="freeze"/></rect></clipPath><clipPath id="line-17"><rect x="497" y="430.95" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="2.13s" fill="freeze"/></rect></clipPath><clipPath id="line-18"><rect x="497" y="451.30" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="2.23s" fill="freeze"/></rect></clipPath><clipPath id="line-19"><rect x="497" y="471.65" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="2.33s" fill="freeze"/></rect></clipPath><clipPath id="line-20"><rect x="497" y="492.00" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="2.42s" fill="freeze"/></rect></clipPath><clipPath id="line-21"><rect x="497" y="512.35" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="2.52s" fill="freeze"/></rect></clipPath><clipPath id="line-22"><rect x="497" y="532.70" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="2.61s" fill="freeze"/></rect></clipPath><clipPath id="line-23"><rect x="497" y="553.05" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="2.71s" fill="freeze"/></rect></clipPath><clipPath id="line-24"><rect x="497" y="573.40" width="658" height="22"><animate attributeName="width" from="0" to="658" dur="0.34s" begin="2.80s" fill="freeze"/></rect></clipPath>
+    <style>
+      text, tspan { white-space: pre; }
+      .ui { font-family: 'Courier New', Consolas, monospace; }
+      .portrait { font-family: 'Courier New', Consolas, monospace; font-size: 7.15px; letter-spacing: -0.22px; fill: url(#portrait-gradient); }
+      .panel-label { font-family: 'Courier New', Consolas, monospace; font-size: 10.5px; font-weight: 700; letter-spacing: 2.2px; fill: #22D3EE; opacity: 0.76; }
+      .prompt { font-family: 'Courier New', Consolas, monospace; font-size: 14px; font-weight: 700; fill: #34D399; }
+      .command { font-family: 'Courier New', Consolas, monospace; font-size: 14px; fill: #E6F1FF; }
+      .muted { font-family: 'Courier New', Consolas, monospace; font-size: 14px; fill: #64748B; }
+      .section { font-family: 'Courier New', Consolas, monospace; font-size: 13.5px; font-weight: 700; fill: #8B5CF6; }
+      .rule { font-family: 'Courier New', Consolas, monospace; font-size: 13.5px; fill: #334155; }
+      .branch { font-family: 'Courier New', Consolas, monospace; font-size: 13.2px; fill: #334155; }
+      .key { font-family: 'Courier New', Consolas, monospace; font-size: 13.2px; font-weight: 700; fill: #22D3EE; }
+      .separator { font-family: 'Courier New', Consolas, monospace; font-size: 13.2px; fill: #64748B; }
+      .value { font-family: 'Courier New', Consolas, monospace; font-size: 13.2px; fill: #E6F1FF; }
+      .status-value { font-family: 'Courier New', Consolas, monospace; font-size: 13.2px; font-weight: 700; fill: #34D399; }
+      .portrait-name { font-family: 'Courier New', Consolas, monospace; font-size: 23px; font-weight: 800; letter-spacing: 4px; fill: #E6F1FF; }
+      .portrait-role { font-family: 'Courier New', Consolas, monospace; font-size: 11px; font-weight: 700; letter-spacing: 1.5px; fill: #22D3EE; }
+      .top-label { font-family: 'Courier New', Consolas, monospace; font-size: 12px; fill: #64748B; }
+      .scan-label { font-family: 'Courier New', Consolas, monospace; font-size: 10px; font-weight: 700; letter-spacing: 1.1px; fill: #F87171; }
+      .footer { font-family: 'Courier New', Consolas, monospace; font-size: 10.5px; font-weight: 700; letter-spacing: 0.8px; fill: #64748B; }
+      .footer-active { font-family: 'Courier New', Consolas, monospace; font-size: 10.5px; font-weight: 700; letter-spacing: 0.8px; fill: #34D399; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="670" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="670" rx="18" fill="url(#grid)"/>
+
+  <g id="titlebar">
+    <rect x="2" y="2" width="1196" height="40" rx="16" fill="#0D1526" opacity="0.94"/>
+    <circle cx="24" cy="21" r="5" fill="#F87171"/>
+    <circle cx="42" cy="21" r="5" fill="#FBBF24"/>
+    <circle cx="60" cy="21" r="5" fill="#34D399"/>
+    <text x="600" y="26" text-anchor="middle" class="top-label">mussa@ai-lab ~ ./profile --live</text>
+    <circle cx="1115" cy="21" r="4" fill="#F87171">
+      <animate attributeName="opacity" values="1;0.18;1" dur="1.15s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1126" y="25" class="scan-label">LIVE</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="18" y="55" width="445" height="559" rx="14" fill="#08111F" fill-opacity="0.72" stroke="url(#border-gradient)" stroke-opacity="0.50"/>
+    <rect x="478" y="55" width="704" height="559" rx="14" fill="#08111F" fill-opacity="0.72" stroke="url(#border-gradient)" stroke-opacity="0.50"/>
+  </g>
+
+  <text x="34" y="78" class="panel-label">PORTRAIT.STREAM</text>
+  <text x="496" y="78" class="panel-label">SYSTEM.PROFILE</text>
+
+  <g mask="url(#portrait-reveal)" filter="url(#glow)">
+    <text x="38" y="105" class="portrait"><tspan x="38" y="105.00" xml:space="preserve"></tspan><tspan x="38" y="113.65" xml:space="preserve"></tspan><tspan x="38" y="122.30" xml:space="preserve"></tspan><tspan x="38" y="130.95" xml:space="preserve">                                   ,iXXiii:iii;:,.</tspan><tspan x="38" y="139.60" xml:space="preserve">                                .AMHGGGM5MGHS#SMSSMM3;</tspan><tspan x="38" y="148.25" xml:space="preserve">                                2MhAXirs;:iX;A555H355M;</tspan><tspan x="38" y="156.90" xml:space="preserve">                              ,2X;;ii.  .: . .,:;:s,:X;</tspan><tspan x="38" y="165.55" xml:space="preserve">                              sr:, ,               .  i;</tspan><tspan x="38" y="174.20" xml:space="preserve">                             i;           ..,;i;:.    ;A</tspan><tspan x="38" y="182.85" xml:space="preserve">                             ,,.i2MHGHMhMS#9B&amp;@&amp;9#i :, r,</tspan><tspan x="38" y="191.50" xml:space="preserve">                              ,5@@@@@@@@@@@@@@@@@@G; ,,:</tspan><tspan x="38" y="200.15" xml:space="preserve">                              rB@&amp;9S#&amp;@@@@@&amp;&amp;&amp;@@@@Si. .</tspan><tspan x="38" y="208.80" xml:space="preserve">                              h@GH3As5HB&amp;9H5XAhS9BBA.</tspan><tspan x="38" y="217.45" xml:space="preserve">                              S@Gh5AXXh&amp;@95X2hMG#B@#,</tspan><tspan x="38" y="226.10" xml:space="preserve">                            55#@#H52hGB@@&amp;#h2rXh#&amp;@9;.;,</tspan><tspan x="38" y="234.75" xml:space="preserve">                            H9B@@@@@@@@@@@@@BB&amp;@@@@#h##3</tspan><tspan x="38" y="243.40" xml:space="preserve">                            X9&amp;@@@@@B&amp;@@@@@&amp;@@@@@@@BSS&amp;A</tspan><tspan x="38" y="252.05" xml:space="preserve">                            :&amp;&amp;BBB9G##MGH3S99&amp;@@@&amp;&amp;B99#.</tspan><tspan x="38" y="260.70" xml:space="preserve">                             h@99SMG&amp;9M53SB@9#BB&amp;&amp;&amp;&amp;@B:</tspan><tspan x="38" y="269.35" xml:space="preserve">                              sB99ShAhGGHHMhMGB9B@H5H;</tspan><tspan x="38" y="278.00" xml:space="preserve">                               G9#B&amp;99BBB9#S#9B9B&amp;;</tspan><tspan x="38" y="286.65" xml:space="preserve">                               :S#B&amp;&amp;9GHG#&amp;@@B9#93</tspan><tspan x="38" y="295.30" xml:space="preserve">                                i#9@@@@&amp;&amp;@@@&amp;B#HSi</tspan><tspan x="38" y="303.95" xml:space="preserve">                                :9HH###S#9#SMhhS9.</tspan><tspan x="38" y="312.60" xml:space="preserve">                                .99M5AXXXXAA5M#BBi</tspan><tspan x="38" y="321.25" xml:space="preserve">                                i&amp;B9#M5A23hH#9BB@@2</tspan><tspan x="38" y="329.90" xml:space="preserve">                                S&amp;BB#GMhMHG#9B&amp;@@&amp;Hh;</tspan><tspan x="38" y="338.55" xml:space="preserve">                           .;sA2&amp;&amp;9B9#SGSS#9B&amp;@@@H5HG2:.</tspan><tspan x="38" y="347.20" xml:space="preserve">                      .;X5hHSSMA&amp;@&amp;BB9###9B&amp;@@@@#23hMSSh5X;.</tspan><tspan x="38" y="355.85" xml:space="preserve">                 :rA3MGSSGGHMM2A@@@@##BB@@@@@@@B23hhMHHhhHHHM2i:</tspan><tspan x="38" y="364.50" xml:space="preserve">              ;hG###SHHHGMhMhhA9@&amp;MrsXXXh9@@@@@hA5hMMHHh533MHS##GM2i.</tspan><tspan x="38" y="373.15" xml:space="preserve">             rGSGHMMMMMHMhh3h5H@&amp;9Gsrr;::A9&amp;@@#A525352A23333hhMHGS##SM2r.</tspan><tspan x="38" y="381.80" xml:space="preserve">            ,h3hhhhhMMMh33hhh5B@@@@Bir;A9@@&amp;@@h25555A23333333hhhhMMHMGSH5:</tspan><tspan x="38" y="390.45" xml:space="preserve">            s523333hhhh3h33h33@@@@@#i:r@@@@@@#2552253335253333333335532X5A</tspan><tspan x="38" y="399.10" xml:space="preserve">            AAA55533hhhhh33h2h@@@@&amp;2i:s&amp;@@@@@h2552A2235X55555552222X2AXX25.</tspan><tspan x="38" y="407.75" xml:space="preserve">            5XX55553h333333hXH@@@&amp;3srsA@@@@@#255555555X55552222AAXsAXsssX5;</tspan><tspan x="38" y="416.40" xml:space="preserve">           ;3Xs5255333333333XS@@@Gssss5@@@@@h25555533XA52222AAAAXrssrisAXss</tspan><tspan x="38" y="425.05" xml:space="preserve">           X5ss5225555335535s9@@&amp;AsssrM@@@@G25555553AX52222AAAAXrisrrXXXAri.</tspan><tspan x="38" y="433.70" xml:space="preserve">           22si2225555555532s&amp;@@SsssXr9@@@9222555552s222AAAAAXXs;rrrssrXAX::</tspan><tspan x="38" y="442.35" xml:space="preserve">          ,5Ar;AA2222255555As@@@hrsssX@@@&amp;252255555rXAAAXXXXXXs;:si;;iXXX2;:</tspan><tspan x="38" y="451.00" xml:space="preserve">          r5Xr:XAA222222225Xs@@&amp;XrssiH@@@3X5225555ssAXXXXXXXssi,:i;isXXXsAi,,</tspan><tspan x="38" y="459.65" xml:space="preserve">          AAsi,sXAA2AA22225ss&amp;@#rsssr9@@Hr5222555XrXXXXssssrrr;.;irXXXsXXXX,.</tspan><tspan x="38" y="468.30" xml:space="preserve">         ,5Xsi,sXAA2AA22225ri9@Missrs&amp;@9rX222225A;sssrrrrrriii,.;irsssssXsX:</tspan><tspan x="38" y="476.95" xml:space="preserve">         ;2sr;,sXAAAAA22222ii#@2irriA@&amp;2r2222252irsrrriiiiii;i,.;irrrsssXXXi</tspan><tspan x="38" y="485.60" xml:space="preserve">         XAsr;.rAAAA2AA2222;iH&amp;rirr;h@hiX2A2222iisssrrrriiiii;..;iiirrrsXAXs</tspan><tspan x="38" y="494.25" xml:space="preserve">         2XXr;.r22AA2AA2222:;3S;iir:GSriAAA222s:rsssriiiiiiii: .;iirrrrXXAXX,</tspan><tspan x="38" y="502.90" xml:space="preserve">        ;5Xs;: i2XsA2XX222A,:XX;iii:5Xir2AA22X:irrrsXXsriiiii: .;iiiiirsXAAXi   :s.</tspan><tspan x="38" y="511.55" xml:space="preserve">        s2Xr;: ;ArX22Xs222A.,rr;ii::Xr;X2A22X:;rrri;isAAsrii;: .;;ii;;rsXAAXr  .AMr</tspan><tspan x="38" y="520.20" xml:space="preserve">        AAsi;: :XsA2Ass222X.,;ri;;:sri;AAA2A::irssri;:;rXsri;, .;ii;;rssXXAAs    .</tspan><tspan x="38" y="528.85" xml:space="preserve">       .2Xri;, ,XXA2XsrA22s.;iir;:rri:i2A2A;:irrrrsrrr;;iii;:. .:;;;issssXAAX.</tspan></text>
+  </g>
+  <text x="241" y="570" text-anchor="middle" class="portrait-name">MUSSA KHAN</text>
+  <text x="241" y="593" text-anchor="middle" class="portrait-role">AI ENGINEER // INSTRUCTOR // BUILDER</text>
+
+  <g id="terminal-lines"><g clip-path="url(#line-0)"><text x="500" y="102.00"><tspan class="prompt">mussa@ai-lab:~$</tspan><tspan class="muted"> </tspan><tspan class="command">./profile --live</tspan></text></g><g clip-path="url(#line-1)"><text x="500" y="122.35"><tspan class="section">[ IDENTITY ]</tspan><tspan class="rule"> ────────────────────────────────────────</tspan></text></g><g clip-path="url(#line-2)"><text x="500" y="142.70"><tspan class="branch">├─ </tspan><tspan class="key">name         </tspan><tspan class="separator">::</tspan><tspan class="value"> Mussa Khan</tspan></text></g><g clip-path="url(#line-3)"><text x="500" y="163.05"><tspan class="branch">├─ </tspan><tspan class="key">role         </tspan><tspan class="separator">::</tspan><tspan class="value"> AI Engineer · AI/ML Instructor</tspan></text></g><g clip-path="url(#line-4)"><text x="500" y="183.40"><tspan class="branch">├─ </tspan><tspan class="key">base         </tspan><tspan class="separator">::</tspan><tspan class="value"> Islamabad, Pakistan</tspan></text></g><g clip-path="url(#line-5)"><text x="500" y="203.75"><tspan class="branch">├─ </tspan><tspan class="key">education    </tspan><tspan class="separator">::</tspan><tspan class="value"> BS Artificial Intelligence · 5th semester</tspan></text></g><g clip-path="url(#line-6)"><text x="500" y="224.10"><tspan class="branch">├─ </tspan><tspan class="key">current      </tspan><tspan class="separator">::</tspan><tspan class="value"> Instructor @ HectaSolution</tspan></text></g><g clip-path="url(#line-7)"><text x="500" y="244.45"><tspan class="section">[ SPECIALIZATION ]</tspan><tspan class="rule"> ──────────────────────────────────</tspan></text></g><g clip-path="url(#line-8)"><text x="500" y="264.80"><tspan class="branch">├─ </tspan><tspan class="key">agentic_ai   </tspan><tspan class="separator">::</tspan><tspan class="value"> LLM agents · RAG · tool calling</tspan></text></g><g clip-path="url(#line-9)"><text x="500" y="285.15"><tspan class="branch">├─ </tspan><tspan class="key">vision       </tspan><tspan class="separator">::</tspan><tspan class="value"> OpenCV · YOLO · CNNs · ONNX</tspan></text></g><g clip-path="url(#line-10)"><text x="500" y="305.50"><tspan class="branch">├─ </tspan><tspan class="key">automation   </tspan><tspan class="separator">::</tspan><tspan class="value"> n8n · APIs · production workflows</tspan></text></g><g clip-path="url(#line-11)"><text x="500" y="325.85"><tspan class="branch">├─ </tspan><tspan class="key">local_ai     </tspan><tspan class="separator">::</tspan><tspan class="value"> Ollama · private/offline runtimes</tspan></text></g><g clip-path="url(#line-12)"><text x="500" y="346.20"><tspan class="section">[ TOOLCHAIN ]</tspan><tspan class="rule"> ───────────────────────────────────────</tspan></text></g><g clip-path="url(#line-13)"><text x="500" y="366.55"><tspan class="branch">├─ </tspan><tspan class="key">languages    </tspan><tspan class="separator">::</tspan><tspan class="value"> Python · C++ · JavaScript · Bash</tspan></text></g><g clip-path="url(#line-14)"><text x="500" y="386.90"><tspan class="branch">├─ </tspan><tspan class="key">frameworks   </tspan><tspan class="separator">::</tspan><tspan class="value"> TensorFlow · Keras · LangChain</tspan></text></g><g clip-path="url(#line-15)"><text x="500" y="407.25"><tspan class="branch">├─ </tspan><tspan class="key">platforms    </tspan><tspan class="separator">::</tspan><tspan class="value"> Git · Docker · Linux · Colab</tspan></text></g><g clip-path="url(#line-16)"><text x="500" y="427.60"><tspan class="section">[ BUILD.LOG ]</tspan><tspan class="rule"> ───────────────────────────────────────</tspan></text></g><g clip-path="url(#line-17)"><text x="500" y="447.95"><tspan class="branch">├─ </tspan><tspan class="key">01           </tspan><tspan class="separator">::</tspan><tspan class="value"> Portable offline AI agent on USB</tspan></text></g><g clip-path="url(#line-18)"><text x="500" y="468.30"><tspan class="branch">├─ </tspan><tspan class="key">02           </tspan><tspan class="separator">::</tspan><tspan class="value"> Emotion-aware interview platform</tspan></text></g><g clip-path="url(#line-19)"><text x="500" y="488.65"><tspan class="branch">├─ </tspan><tspan class="key">03           </tspan><tspan class="separator">::</tspan><tspan class="value"> Real-time computer vision systems</tspan></text></g><g clip-path="url(#line-20)"><text x="500" y="509.00"><tspan class="section">[ CONNECT ]</tspan><tspan class="rule"> ─────────────────────────────────────────</tspan></text></g><g clip-path="url(#line-21)"><text x="500" y="529.35"><tspan class="branch">├─ </tspan><tspan class="key">email        </tspan><tspan class="separator">::</tspan><tspan class="value"> raja.musa.khan035@gmail.com</tspan></text></g><g clip-path="url(#line-22)"><text x="500" y="549.70"><tspan class="branch">├─ </tspan><tspan class="key">linkedin     </tspan><tspan class="separator">::</tspan><tspan class="value"> in/mussakhan-ai</tspan></text></g><g clip-path="url(#line-23)"><text x="500" y="570.05"><tspan class="branch">├─ </tspan><tspan class="key">github       </tspan><tspan class="separator">::</tspan><tspan class="value"> @musagithub1</tspan></text></g><g clip-path="url(#line-24)"><text x="500" y="590.40"><tspan class="branch">└─ </tspan><tspan class="key">status       </tspan><tspan class="separator">::</tspan><tspan class="status-value"> Open to freelance &amp; collaboration</tspan></text></g></g>
+  <rect x="501" y="584" width="8" height="14" fill="#22D3EE" opacity="1">
+    <animate attributeName="opacity" values="1;0;1" dur="0.92s" begin="2.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0" y="-64" width="1200" height="64" fill="url(#scan-gradient)" opacity="0.50">
+    <animateTransform attributeName="transform" type="translate" from="0 48" to="0 700" dur="4.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <g id="footer">
+    <circle cx="28" cy="642" r="4" fill="#34D399">
+      <animate attributeName="r" values="3.5;5;3.5" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="40" y="646" class="footer-active">SYSTEM ONLINE</text>
+    <text x="600" y="646" text-anchor="middle" class="footer">AGENTIC AI · LLMs · COMPUTER VISION · AUTOMATION</text>
+    <text x="1170" y="646" text-anchor="end" class="footer">@musagithub1</text>
+  </g>
+
+  <rect x="2" y="2" width="1196" height="666" rx="16" fill="none" stroke="url(#border-gradient)" stroke-width="2" opacity="0.80">
+    <animate attributeName="opacity" values="0.52;0.92;0.52" dur="3.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
